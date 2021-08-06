@@ -1,2 +1,2 @@
-# GWD
-G2Net Gravitational Wave Detection: Find gravitational wave signals from binary black hole collisions.
+# GAN MNIST
+Deep Convolutional Generative Adversarial Network
